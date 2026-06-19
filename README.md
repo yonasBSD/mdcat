@@ -1,5 +1,7 @@
 > [!IMPORTANT]
-> No longer maintained.  If you wish to take over, send a mail to <sebastian@swsnr.de>.
+> This repository is no longer maintained.
+>
+> You can find a maintained fork at <https://github.com/BIRSAx2/mdcat>.
 
 # mdcat
 
